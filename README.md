@@ -9,4 +9,4 @@ CHange 2 in GitHub
 CHange in GitHub 2
 Change in local PC hub
 
-Change in new-branch
+Change in new-branch for conflict
